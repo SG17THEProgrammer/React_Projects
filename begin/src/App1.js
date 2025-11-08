@@ -23,7 +23,7 @@
 // import Calculator from './Calculator';
 // import Greeting from './Greeting';
 // import DateTime, { FnameLname } from './DateTime';
-// import ToDoList from './components/ToDoList/ToDoList';
+import ToDoList from './components/ToDoList/ToDoList';
 // import IncDec from './components/Inc&Dec/IncDec';
 
 // import Accordion from "./components/Accordion/Accordion";
@@ -81,7 +81,7 @@ function App1() {
       {/* <Events></Events> */}
       {/* <Forms></Forms> */}
 
-      {/* <ToDoList></ToDoList> */}
+      <ToDoList></ToDoList>
       {/* <IncDec></IncDec> */}
 
       {/* <Accordion></Accordion> */}
@@ -100,7 +100,7 @@ function App1() {
       {/* <Weather></Weather>  */}
 
 
-      <AppIG></AppIG>
+      {/* <AppIG></AppIG> */}
 
       {/* <AppWeb></AppWeb> */}
 
